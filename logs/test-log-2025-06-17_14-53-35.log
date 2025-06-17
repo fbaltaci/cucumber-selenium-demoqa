@@ -1,0 +1,5 @@
+14:53:35.438 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\fbaltaci\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+14:53:35.808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fbaltaci\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+14:53:36.131 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
