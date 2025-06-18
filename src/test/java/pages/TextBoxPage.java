@@ -6,11 +6,11 @@ import org.openqa.selenium.WebDriver;
 public class TextBoxPage {
     private final WebDriver driver;
 
-    private final By fullName = By.id("userName");
-    private final By email = By.id("userEmail");
-    private final By currentAddress = By.id("currentAddress");
-    private final By permanentAddress = By.id("permanentAddress");
-    private final By submitBtn = By.id("submit");
+    private final By fullName = By.xpath("//*[@id='userName']");
+    private final By email = By.xpath("//*[@id='userEmail']");
+    private final By currentAddress = By.xpath("//*[@id='currentAddress']");
+    private final By permanentAddress = By.xpath("//*[@id='permanentAddress']");
+    private final By submitBtn = By.xpath("//*[@id='submit']");
 
     public TextBoxPage(WebDriver driver) {
         this.driver = driver;

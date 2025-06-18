@@ -1,0 +1,60 @@
+15:34:59.382 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:34:59.733 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:34:59.734 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:34:59.735 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:34:59.756 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:34:59.763 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:03.995 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:04.007 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:04.009 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:04.009 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:04.016 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:04.017 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:09.551 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:09.561 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:09.562 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:09.563 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:09.569 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:09.570 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:13.051 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:13.058 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:13.058 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:13.058 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:13.063 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:13.064 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:17.161 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:17.168 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:17.168 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:17.168 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:17.174 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:17.175 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:20.658 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:20.664 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:20.664 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:20.664 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:20.668 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:20.668 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:24.361 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:24.367 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:24.367 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:24.367 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:24.372 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:24.373 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:27.968 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:27.975 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:27.976 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:27.976 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:27.980 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:27.981 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:31.363 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:31.372 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:31.373 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:31.373 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:31.377 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:31.378 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+15:35:34.920 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+15:35:34.931 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome=137 in cache (valid until 16:31:06 18/06/2025 EDT)
+15:35:34.932 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution chrome137=137.0.7151.119 in cache (valid until 15:31:06 19/06/2025 EDT)
+15:35:34.932 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+15:35:34.939 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver chromedriver 137.0.7151.119 found in cache
+15:35:34.940 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\fbaltaci\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
