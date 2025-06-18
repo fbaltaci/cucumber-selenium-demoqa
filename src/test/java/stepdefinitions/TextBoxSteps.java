@@ -52,4 +52,17 @@ public class TextBoxSteps {
     public void output_should_show_email(String expectedEmail) {
         Assert.assertTrue(textBoxPage.getOutputEmail().contains(expectedEmail));
     }
+
+    @When("I fill the form with name {string}, email {string}, address {string}, and permanent address {string}")
+    public void i_fill_the_form_with_name_email_address_and_permanent_address(String string, String string2, String string3, String string4) {
+        textBoxPage.enterFullName(string);
+        textBoxPage.enterEmail(string2);
+        textBoxPage.enterCurrentAddress(string3);
+        textBoxPage.enterPermanentAddress(string4);
+    }
+    @Then("I should see the name {string} and email {string} in the output")
+    public void i_should_see_the_name_and_email_in_the_output(String string, String string2) {
+        Assert.assertTrue(textBoxPage.getOutputName().contains(string));
+        Assert.assertTrue(textBoxPage.getOutputEmail().contains(string2));
+    }
 }
